@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "^3.0.0-rc.2"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.2",
+    "@graphql-codegen/typed-document-node": "^2.2.10",
+    "@vue/apollo-composable": "^4.0.0-alpha.17",
+    "graphql": "^15.8.0",
+    "vue": "^3.2.33"
+  }
+}
